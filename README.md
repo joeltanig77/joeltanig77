@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with UI design
 - 💬 Ask me about Data Structures
 - ⚡ Favorite Hobby: Improving my skills as an RTS player! #Zero-K 
-- 👨‍💻 Known Languages: Java, Python, Dart, C, and Assembly(MIPS)
+- 👨‍💻 Known Languages: Java, Python, Dart, C, and Assembly (MIPS)
 
 
 📷 [instagram][instagram] **|** 
