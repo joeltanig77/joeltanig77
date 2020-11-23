@@ -14,5 +14,5 @@
 👔 [linkedin][linkedin]
 
 
-[instagram]: https://instagram.com/joeltanig77
+[instagram]: https://instagram.com/joelt77
 [linkedin]: https://www.linkedin.com/in/joel-tanig-bb24711aa/
