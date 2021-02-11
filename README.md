@@ -1,9 +1,7 @@
 ### Hey the name is Joel Tanig 👋
 
-## Student at Washington State University always looking for internships!
+## Student at Washington State University
 
-
-- 🔭 I’m currently working on a flutter app! Stay tuned
 - 🌱 I’m currently learning flutter, google firebase, cybersecurity, computer architecture and assembly. 
 - 🤔 I’m looking for help with UI design
 - 💬 Ask me about Data Structures
