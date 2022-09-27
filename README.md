@@ -1,12 +1,8 @@
-### Hey the name is Joel Tanig 👋
+### Joel Tanig here!👋
 
 ## Student at Washington State University
 
-- 🌱 I’m currently learning flutter, google firebase, cybersecurity, computer architecture and assembly. 
-- 🤔 I’m looking for help with UI design
-- 💬 Ask me about Data Structures
-- ⚡ Favorite Hobby: Improving my skills as an RTS player! #Zero-K 
-- 👨‍💻 Known Languages: Java, Python, Dart, C, and Assembly (MIPS)
+- 👨‍💻 Known Languages: Java, Python, Dart, C, C++, C#, and Assembly (MIPS)
 
 
 📷 [instagram][instagram] **|** 
